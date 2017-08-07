@@ -1,1 +1,11 @@
 C:\Users\Louis\Documents\Visual Studio 2015\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.Form1.resources
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.Properties.Resources.resources
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.csproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.exe
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.pdb
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.exe
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.pdb
+C:\Users\Louis\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.LouisForm.resources
